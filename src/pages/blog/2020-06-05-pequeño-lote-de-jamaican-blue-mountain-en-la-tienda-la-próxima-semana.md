@@ -1,17 +1,13 @@
 ---
 templateKey: blog-post
-title: "Justo en: un pequeño lote de Jamaican Blue Mountain en la tienda la
-  próxima semana"
-date: 2017-01-04T15:04:10.000Z
+title: Pequeño lote de Jamaican Blue Mountain en la tienda la próxima semana
+date: 2020-06-05T14:54:40.264Z
 description: Nos enorgullece anunciar que ofreceremos un pequeño lote de granos
   de café Jamaica Blue Mountain en nuestra tienda la próxima semana.
 featuredpost: true
 featuredimage: /img/pngocean.com.png
 tags:
-  - jamaica
-  - green beans
-  - flavor
-  - tasting
+  - Bogota Cali Medellin
 ---
 Esperamos el envío de una cantidad limitada de judías verdes el próximo lunes. Ofreceremos los frijoles tostados desde el martes, pero las cantidades son limitadas, así que sea rápido.
 
