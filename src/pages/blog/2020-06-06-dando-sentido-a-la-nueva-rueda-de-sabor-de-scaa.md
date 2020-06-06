@@ -4,7 +4,7 @@ title: Dando sentido a la nueva rueda de sabor de SCAA
 date: 2020-06-06T03:17:23.045Z
 description: La Rueda de Sabor de Coffee Taster, el recurso oficial utilizado
   por los catadores de café, ha sido revisada por primera vez este año.
-featuredpost: false
+featuredpost: true
 featuredimage: /img/flavor_wheel.jpg
 tags:
   - flavor
@@ -12,23 +12,23 @@ tags:
 ---
 ![flavor wheel](/img/flavor_wheel.jpg)
 
-The SCAA updated the wheel to reflect the finer nuances needed to describe flavors more precisely. The new descriptions are more detailed and hence allow cuppers to distinguish between more flavors.
+El SCAA actualizó la rueda para reflejar los matices más finos necesarios para describir los sabores con mayor precisión. Las nuevas descripciones son más detalladas y, por lo tanto, permiten a los catadores distinguir entre más sabores.
 
-While this is going to be a big change for professional coffee tasters, it means a lot to you as a consumer as well. We’ll explain how the wheel came to be, how pros use it and what the flavors actually mean.
+Si bien esto será un gran cambio para los catadores profesionales de café, también significa mucho para usted como consumidor. Explicaremos cómo surgió la rueda, cómo la usan los profesionales y qué significan realmente los sabores.
 
-## What the updates mean to you
+## Qué significan las actualizaciones para ti
 
-The Specialty Coffee Association of America (SCAA), founded in 1982, is a non-profit trade organization for the specialty coffee industry. With members located in more than 40 countries, SCAA represents every segment of the specialty coffee industry, including:
+La Specialty Coffee Association of America (SCAA), fundada en 1982, es una organización comercial sin fines de lucro para la industria del café de especialidad. Con miembros ubicados en más de 40 países, SCAA representa a todos los segmentos de la industria del café de especialidad, incluyendo:
 
-* producers
-* roasters
-* importers/exporters
-* retailers
-* manufacturers
+* productores
+* tostadores
+* importadores / exportadores
+* minoristas
+* fabricantes
 * baristas
 
-For over 30 years, SCAA has been dedicated to creating a vibrant specialty coffee community by recognizing, developing and promoting specialty coffee. SCAA sets and maintains quality standards for the industry, conducts market research, and provides education, training, resources, and business services for its members.
+Durante más de 30 años, SCAA se ha dedicado a crear una vibrante comunidad de cafés especiales al reconocer, desarrollar y promover el café especial. SCAA establece y mantiene estándares de calidad para la industria, realiza estudios de mercado y brinda educación, capacitación, recursos y servicios comerciales a sus miembros.
 
-Coffee cupping, or coffee tasting, is the practice of observing the tastes and aromas of brewed coffee. It is a professional practice but can be done informally by anyone or by professionals known as "Q Graders". A standard coffee cupping procedure involves deeply sniffing the coffee, then loudly slurping the coffee so it spreads to the back of the tongue.
+La cata de café, o degustación de café, es la práctica de observar los sabores y aromas del café preparado. Es una práctica profesional, pero cualquier persona o un profesional conocido como "Q Graders" puede realizarlo de manera informal. Un procedimiento estándar de catación de café consiste en oler profundamente el café y luego sorberlo en voz alta para que se extienda a la parte posterior de la lengua.
 
-The coffee taster attempts to measure aspects of the coffee's taste, specifically the body (the texture or mouthfeel, such as oiliness), sweetness, acidity (a sharp and tangy feeling, like when biting into an orange), flavour (the characters in the cup), and aftertaste. Since coffee beans embody telltale flavours from the region where they were grown, cuppers may attempt to identify the coffee's origin.
+El catador de café intenta medir aspectos del sabor del café, específicamente el cuerpo (la textura o la sensación en la boca, como la grasa), la dulzura, la acidez (una sensación aguda y picante, como cuando se muerde una naranja), el sabor (los caracteres en el taza), y postgusto. Dado que los granos de café representan sabores reveladores de la región donde se cultivaron, los catadores pueden intentar identificar el origen del café.
