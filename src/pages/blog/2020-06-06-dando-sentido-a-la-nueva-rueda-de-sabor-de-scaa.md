@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: Dando sentido a la nueva rueda de sabor de SCAA
+title: Nuevo Blog de prueba para developers
 date: 2020-06-06T03:17:23.045Z
 description: La Rueda de Sabor de Coffee Taster, el recurso oficial utilizado
   por los catadores de café, ha sido revisada por primera vez este año.
