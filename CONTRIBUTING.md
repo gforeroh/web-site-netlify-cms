@@ -1,103 +1,103 @@
-# CONTRIBUTING
+# CONTRIBUYENDO
 
-Contributions are always welcome, no matter how large or small. Before contributing,
-please read the [code of conduct](CODE_OF_CONDUCT.md).
+Las contribuciones son siempre bienvenidas, no importa cuán grandes o pequeñas sean. Antes de contribuir,
+lea el [código de conducta] (CODE_OF_CONDUCT.md).
 
-## Setup
+## Preparar
 
-> Install yarn on your system: [https://yarnpkg.com/en/docs/install](https://yarnpkg.com/en/docs/install)
+> Instale hilo en su sistema: [https://yarnpkg.com/en/docs/installfont>(https://yarnpkg.com/en/docs/install)
 
-### Install dependencies
+### Instalar dependencias
 
-> Only required on the first run, subsequent runs can use `yarn` to both
-bootstrap and run the development server using `yarn develop`.
-Since this starter using the [netlify-dev](https://www.netlify.com/products/dev/#how-it-works), there could be further issues you, please check the [netlify-dev](https://github.com/netlify/netlify-dev) repository for further information and set up questions. 
+> Solo se requiere en la primera ejecución, las siguientes ejecuciones pueden usar 'hilo' para ambos
+arranque y ejecute el servidor de desarrollo usando `yarn desarrollo`.
+Dado que este iniciador que usa [netlify-dev] (https://www.netlify.com/products/dev/#how-it-works), podría haber más problemas, consulte el [netlify-dev] (https : //github.com/netlify/netlify-dev) para obtener más información y configurar preguntas.
 
-```sh
+`` sh
 $ git clone https://github.com/netlify-templates/gatsby-starter-netlify-cms
-$ yarn 
-```
+$ hilo
+`` `
 
-## Available scripts
+## Scripts disponibles
 
 
 ### `build`
 
-Build the static files into the `public` folder, turns lambda functions into a deployable form. 
+Construya los archivos estáticos en la carpeta `public`, convierte las funciones lambda en un formulario desplegable.
 
-#### Usage
+#### Uso
 
-```sh
-$ yarn build
-```
+`` sh
+$ construcción de hilo
+`` `
 
-### `clean`
+### `limpio`
 
-Runs `gatsby clean` command.
+Ejecuta el comando `gatsby clean`.
 
-#### Usage
+#### Uso
 
-```sh
-yarn clean
-```
+`` sh
+hilo limpio
+`` `
 
 ### `netlify dev`
 
-Starts the netlify dev environment, including the gatsby dev environment.
-For more infor check the [Netlify Dev Docs](https://github.com/netlify/cli/blob/master/docs/netlify-dev.md)
+Inicia el entorno de desarrollo de netlify, incluido el entorno de desarrollo de gatsby.
+Para obtener más información, consulte los [Netlify Dev Docs] (https://github.com/netlify/cli/blob/master/docs/netlify-dev.md)
 
-```sh
+`` sh
 netlify dev
-```
+`` `
 
-### `develop` or `start`
+### `desarrollo` o` inicio`
 
-Runs the `clean` script and starts the gatsby develop server using the command `gatsby develop`. We recomend using this command when you don't need Netlify specific features
+Ejecuta el script `clean` e inicia el servidor de desarrollo gatsby usando el comando` gatsby desarrollo`. Recomendamos usar este comando cuando no necesite funciones específicas de Netlify
 
-#### Usage
+#### Uso
 
-```sh
-yarn develop
-```
-### `test`
+`` sh
+desarrollar hilo
+`` `
+### `prueba`
 
-Not implmented yet
+Aún no está implícito
 
-#### Usage
+#### Uso
 
-```sh
-yarn test
-```
+`` sh
+prueba de hilo
+`` `
 
-### `format`
+### `formato`
 
-Formats code and docs according to our style guidelines using `prettier`
+Formatea el código y los documentos de acuerdo con nuestras pautas de estilo usando `prettier`
 
-#### Usage
+#### Uso
 
-```sh
-yarn format
-```
+`` sh
+formato de hilo
+`` `
 
 
-## Pull Requests
+## Solicitudes de extracción
 
-We actively welcome your pull requests!
+¡Recibimos activamente sus solicitudes de extracción!
 
-If you need help with Git or our workflow, please ask on [Gitter.im](https://gitter.im/netlify/NetlifyCMS). We want your contributions even if you're just learning Git. Our maintainers are happy to help!
+Si necesita ayuda con Git o nuestro flujo de trabajo, consulte [Gitter.im] (https://gitter.im/netlify/NetlifyCMS). Queremos sus contribuciones incluso si solo está aprendiendo Git. ¡Nuestros mantenedores están felices de ayudar!
 
-Netlify CMS uses the [Forking Workflow](https://www.atlassian.com/git/tutorials/comparing-workflows/forking-workflow) + [Feature Branches](https://www.atlassian.com/git/tutorials/comparing-workflows/feature-branch-workflow). Additionally, PR's should be [rebased](https://www.atlassian.com/git/tutorials/merging-vs-rebasing) on master when opened, and again before merging.
+Netlify CMS utiliza el [Flujo de trabajo de bifurcación] (https://www.atlassian.com/git/tutorials/comparing-workflows/forking-workflow) + [Ramas de funciones] (https://www.atlassian.com/git/tutorials / comparating-workflows / feature-branch-workflow). Además, las relaciones públicas se deben [rebase] (https://www.atlassian.com/git/tutorials/merging-vs-rebasing) en master cuando se abre, y nuevamente antes de fusionar.
 
-1. Fork the repo.
-2. Create a branch from `master`. If you're addressing a specific issue, prefix your branch name with the issue number.
-2. If you've added code that should be tested, add tests.
-3. If you've changed APIs, update the documentation.
-4. Run `yarn test` and ensure the test suite passes. (Not applicable yet)
-5. Use `yarn format` to format and lint your code.
-6. PR's must be rebased before merge (feel free to ask for help).
-7. PR should be reviewed by two maintainers prior to merging.
+1. Bifurca el repositorio.
+2. Cree una rama desde `master`. Si está abordando un problema específico, prefije el nombre de su sucursal con el número del problema.
+2. Si ha agregado código que debería probarse, agregue pruebas.
+3. Si ha cambiado las API, actualice la documentación.
+4. Ejecute la 'prueba de hilo' y asegúrese de que el conjunto de pruebas pase. (No aplicable todavía)
+5. Use `yarn format` para formatear y unir su código.
+6. Las relaciones públicas deben ser modificadas antes de fusionarse (no dude en pedir ayuda).
+7. Las relaciones públicas deben ser revisadas por dos mantenedores antes de la fusión.
 
-## License
+## Licencia
 
-By contributing to the Gatsby - Netlify CMS starter, you agree that your contributions will be licensed
-under its [MIT license](LICENSE).
+Al contribuir al iniciador de Gatsby - Netlify CMS, acepta que sus contribuciones tendrán licencia
+bajo su [licencia MIT] (LICENCIA).
