@@ -22,7 +22,7 @@ export default class SuccessStoriesIndexPage extends React.Component {
               padding: '1rem',
             }}
           >
-            Latest Stories
+            Casos de éxito
           </h1>
         </div>
         <section className="section">
