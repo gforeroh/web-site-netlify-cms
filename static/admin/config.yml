@@ -68,16 +68,15 @@ collections:
   
   - name: "projects"
     label: "Proyectos"
-    folder: "src/pages/successStories"
+    folder: "src/pages/projects"
     create: true
     slug: "{{day}}-{{month}}-{{year}}-{{slug}}"
     fields:
-      - {label: "Clave de plantilla", name: "templateKey", widget: "hidden", default: "success-stories"}
+      - {label: "Clave de plantilla", name: "templateKey", widget: "hidden", default: "projects-post"}
       - {label: "Título", name: "title", widget: "string"}
       - {label: "Fecha de publicación", name: "date", widget: "datetime"}
       - {label: "Descripción", name: "description", widget: "text"}
       - {label: "Publicación destacada", name: "featuredpost", widget: "boolean"}
       - {label: "Foto principal", name: "featuredimage", widget: image}
       - {label: "Cuerpo", name: "body", widget: "markdown"}
-      - {label: "Etiquetas", name: "tags", widget: "list"}
 

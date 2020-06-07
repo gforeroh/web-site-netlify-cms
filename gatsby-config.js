@@ -1,10 +1,16 @@
 module.exports = {
   siteMetadata: {
     title: 'Gatsby + Netlify CMS Starter',
-    description:
+    titleTemplate: "%s · The Real Hero",
+    description: 
       'Este repositorio contiene un sitio web comercial de ejemplo que está construido con Gatsby y Netlify CMS. Sigue la arquitectura JAMstack usando Git como una fuente única de verdad, y Netlify para la implementación continua y la distribución de CDN.',
+    url: "https://web-site-gerardof.netlify.app", // No trailing slash allowed!
+    image: "/images/snape.jpg", // Path to your image you placed in the 'static' folder
+    twitterUsername: "@occlumency",
+    siteUrl: `https://web-site-gerardof.netlify.app/`,
   },
   plugins: [
+    'gatsby-plugin-sitemap',
     'gatsby-plugin-react-helmet',
     'gatsby-plugin-sass',
     {
